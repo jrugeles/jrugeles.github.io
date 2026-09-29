@@ -35,3 +35,7 @@ Static academic website prepared for GitHub Pages. No build step is required.
 ## Contact form
 
 The current form does not collect data on a server; it opens the visitor's email client. To switch to a server-backed form, replace this behavior with Formspree or another endpoint.
+
+## Student opportunities form
+
+`join.html` is a review draft. The submit button is deliberately disabled until an email delivery endpoint is configured. To activate it, create a form in Formspree (or another approved form service), set the form action to the assigned endpoint, remove `disabled` and `aria-disabled` from the button, and submit a test application. Do not publish a working form without checking its notification recipient and privacy text.
