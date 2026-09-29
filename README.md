@@ -20,6 +20,7 @@ Static academic website prepared for GitHub Pages. No build step is required.
 - `wiridlab.html` — laboratory page and video
 - `publications.html` — selected publications
 - `contact.html` — static contact form using `mailto:`
+- `tinygs.html` — featured TinyGS ground station and public station link
 - `assets/styles.css` — site design
 - `assets/script.js` — mobile navigation + contact form
 
